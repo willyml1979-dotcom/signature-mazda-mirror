@@ -1,6 +1,6 @@
 {
   "dealership": "Signature Mazda",
-  "generated_at": "2026-09-26T11:59:14",
+  "generated_at": "2026-10-08T14:52:49",
   "vehicle_count": 183,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -19,12 +19,15 @@
       "year": 2008,
       "make": "Audi",
       "model": "R8",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2014 Mercedes-Benz CLA 250 Coupe | No Accidentsin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "250 Coupe",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/7a788ee96997.html",
       "source_url": "https://www.signaturemazda.com/used/2014-Mercedes_Benz-CLA_250-id14027259.html",
       "dealer_url": "https://www.signaturemazda.com/used/2014-Mercedes_Benz-CLA_250-id14027259.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -34,13 +37,16 @@
       "odometer_km": 7152,
       "year": 2014,
       "make": "Mercedes-Benz",
-      "model": "CLA 250 Coupe",
-      "condition": "used"
+      "model": "CLA",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2014 Mercedes-Benz CLA 250 Coupe | No Accidentsin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "250 Coupe",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/61dc30412ddd.html",
       "source_url": "https://www.signaturemazda.com/used/2014-Mercedes_Benz-CLA_250-id14027259.html?show_video=1",
       "dealer_url": "https://www.signaturemazda.com/used/2014-Mercedes_Benz-CLA_250-id14027259.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -50,8 +56,10 @@
       "odometer_km": 7152,
       "year": 2014,
       "make": "Mercedes-Benz",
-      "model": "CLA 250 Coupe",
-      "condition": "used"
+      "model": "CLA",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2015 Chevrolet Corvette ",
@@ -67,7 +75,9 @@
       "year": 2015,
       "make": "Chevrolet",
       "model": "Corvette",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2018 Land Rover Range Rover Velar P380 Se R Dynamicin Richmond",
@@ -83,7 +93,9 @@
       "year": 2018,
       "make": "Land",
       "model": "Rover Range Rover Velar P380 Se R Dynamicin Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2018 Land Rover Range Rover Velar P380 Se R Dynamicin Richmond",
@@ -99,7 +111,9 @@
       "year": 2018,
       "make": "Land",
       "model": "Rover Range Rover Velar P380 Se R Dynamicin Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2018 Mazda3 Sport 50th Anniv. At | Certified Pre-Ownedin Richmond",
@@ -115,7 +129,9 @@
       "year": 2018,
       "make": "Mazda3",
       "model": "Sport 50th Anniv. At",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2018 Mazda3 Sport 50th Anniv. At | Certified Pre-Ownedin Richmond",
@@ -131,12 +147,15 @@
       "year": 2018,
       "make": "Mazda3",
       "model": "Sport 50th Anniv. At",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Forte Sedan Exin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Ex",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/4aedb3ca533e.html",
       "source_url": "https://www.signaturemazda.com/used/2019-Kia-Forte-id14308364.html",
       "dealer_url": "https://www.signaturemazda.com/used/2019-Kia-Forte-id14308364.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -146,13 +165,16 @@
       "odometer_km": 142200,
       "year": 2019,
       "make": "Kia",
-      "model": "Forte Sedan Exin Richmond",
-      "condition": "used"
+      "model": "Forte",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Forte Sedan Exin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Ex",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/044d9841a5f6.html",
       "source_url": "https://www.signaturemazda.com/used/2019-Kia-Forte-id14308364.html?show_video=1",
       "dealer_url": "https://www.signaturemazda.com/used/2019-Kia-Forte-id14308364.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -162,8 +184,10 @@
       "odometer_km": 142200,
       "year": 2019,
       "make": "Kia",
-      "model": "Forte Sedan Exin Richmond",
-      "condition": "used"
+      "model": "Forte",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Forte ",
@@ -179,12 +203,15 @@
       "year": 2019,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Soul EX | One Ownerin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/0563e2583e19.html",
       "source_url": "https://www.signaturemazda.com/used/2019-Kia-Soul-id14161237.html",
       "dealer_url": "https://www.signaturemazda.com/used/2019-Kia-Soul-id14161237.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -194,13 +221,16 @@
       "odometer_km": 128920,
       "year": 2019,
       "make": "Kia",
-      "model": "Soul EX",
-      "condition": "used"
+      "model": "Soul",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Soul EX | One Ownerin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/3b65fa55c66b.html",
       "source_url": "https://www.signaturemazda.com/used/2019-Kia-Soul-id14161237.html?show_video=1",
       "dealer_url": "https://www.signaturemazda.com/used/2019-Kia-Soul-id14161237.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -210,8 +240,10 @@
       "odometer_km": 128920,
       "year": 2019,
       "make": "Kia",
-      "model": "Soul EX",
-      "condition": "used"
+      "model": "Soul",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Soul ",
@@ -227,7 +259,9 @@
       "year": 2019,
       "make": "Kia",
       "model": "Soul",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Soul ",
@@ -243,7 +277,9 @@
       "year": 2019,
       "make": "Kia",
       "model": "Soul",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Soul ",
@@ -259,7 +295,9 @@
       "year": 2019,
       "make": "Kia",
       "model": "Soul",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Soul ",
@@ -275,7 +313,9 @@
       "year": 2019,
       "make": "Kia",
       "model": "Soul",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Soul ",
@@ -291,12 +331,15 @@
       "year": 2019,
       "make": "Kia",
       "model": "Soul",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2019 Mercedes-Benz GLA 250 4matic Suvin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "250 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/de13ca8df793.html",
       "source_url": "https://www.signaturemazda.com/used/2019-Mercedes_Benz-GLA_250-id14401903.html",
       "dealer_url": "https://www.signaturemazda.com/used/2019-Mercedes_Benz-GLA_250-id14401903.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -306,13 +349,16 @@
       "odometer_km": 60404,
       "year": 2019,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4matic Suvin Richmond",
-      "condition": "used"
+      "model": "GLA",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2020 Mazda CX-5 Signature Awd At | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Signature At",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/a41f266295bf.html",
       "source_url": "https://www.signaturemazda.com/used/2020-Mazda-CX_5-id14302115.html",
       "dealer_url": "https://www.signaturemazda.com/used/2020-Mazda-CX_5-id14302115.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -322,13 +368,16 @@
       "odometer_km": 56184,
       "year": 2020,
       "make": "Mazda",
-      "model": "CX-5 Signature Awd At",
-      "condition": "used"
+      "model": "CX-5",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2020 Mazda CX-5 Signature Awd At | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Signature At",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/be476730293a.html",
       "source_url": "https://www.signaturemazda.com/used/2020-Mazda-CX_5-id14302115.html?show_video=1",
       "dealer_url": "https://www.signaturemazda.com/used/2020-Mazda-CX_5-id14302115.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -338,8 +387,10 @@
       "odometer_km": 56184,
       "year": 2020,
       "make": "Mazda",
-      "model": "CX-5 Signature Awd At",
-      "condition": "used"
+      "model": "CX-5",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2020 Mazda CX-5 ",
@@ -355,7 +406,9 @@
       "year": 2020,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Wrangler ",
@@ -371,7 +424,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Wrangler ",
@@ -387,12 +442,15 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2021 Mazda CX-30 Gt Awd 2.5l I4 Atin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gt I4 At",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/20f11ee0bf0f.html",
       "source_url": "https://www.signaturemazda.com/used/2021-Mazda-CX_30-id14429749.html",
       "dealer_url": "https://www.signaturemazda.com/used/2021-Mazda-CX_30-id14429749.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -402,8 +460,10 @@
       "odometer_km": 112408,
       "year": 2021,
       "make": "Mazda",
-      "model": "CX-30 Gt Awd 2.5l I4 Atin Richmond",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2021 Mazda CX-30 ",
@@ -419,7 +479,9 @@
       "year": 2021,
       "make": "Mazda",
       "model": "CX-30",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2021 Mazda CX-30 ",
@@ -435,7 +497,9 @@
       "year": 2021,
       "make": "Mazda",
       "model": "CX-30",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2021 Mazda3 Sport Gs At | Certified Pre-Ownedin Richmond",
@@ -451,7 +515,9 @@
       "year": 2021,
       "make": "Mazda3",
       "model": "Sport Gs At",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2021 Mazda3 Sport Gs At | Certified Pre-Ownedin Richmond",
@@ -467,7 +533,9 @@
       "year": 2021,
       "make": "Mazda3",
       "model": "Sport Gs At",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Infiniti QX80 ",
@@ -483,7 +551,9 @@
       "year": 2022,
       "make": "Infiniti",
       "model": "QX80",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Infiniti QX80 ",
@@ -499,12 +569,15 @@
       "year": 2022,
       "make": "Infiniti",
       "model": "QX80",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Mazda CX-5 Sport Design Awd Cd | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport Design Cd",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/3b8117d9a78a.html",
       "source_url": "https://www.signaturemazda.com/used/2022-Mazda-CX_5-id14197686.html",
       "dealer_url": "https://www.signaturemazda.com/used/2022-Mazda-CX_5-id14197686.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -514,13 +587,16 @@
       "odometer_km": 68694,
       "year": 2022,
       "make": "Mazda",
-      "model": "CX-5 Sport Design Awd Cd",
-      "condition": "used"
+      "model": "CX-5",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Mazda CX-5 Sport Design Awd Cd | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport Design Cd",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/b00e6a9feae2.html",
       "source_url": "https://www.signaturemazda.com/used/2022-Mazda-CX_5-id14197686.html?show_video=1",
       "dealer_url": "https://www.signaturemazda.com/used/2022-Mazda-CX_5-id14197686.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -530,13 +606,16 @@
       "odometer_km": 68694,
       "year": 2022,
       "make": "Mazda",
-      "model": "CX-5 Sport Design Awd Cd",
-      "condition": "used"
+      "model": "CX-5",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Mazda CX-5 Signature Awd Atin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Signature At",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/e0f95640725d.html",
       "source_url": "https://www.signaturemazda.com/used/2022-Mazda-CX_5-id14410572.html",
       "dealer_url": "https://www.signaturemazda.com/used/2022-Mazda-CX_5-id14410572.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -546,8 +625,10 @@
       "odometer_km": 49454,
       "year": 2022,
       "make": "Mazda",
-      "model": "CX-5 Signature Awd Atin Richmond",
-      "condition": "used"
+      "model": "CX-5",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Mazda CX-5 ",
@@ -563,7 +644,9 @@
       "year": 2022,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Mazda Mazda3 ",
@@ -579,7 +662,9 @@
       "year": 2022,
       "make": "Mazda",
       "model": "Mazda3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Mazda CX-5 ",
@@ -595,7 +680,9 @@
       "year": 2022,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Mazda Mazda3 ",
@@ -611,7 +698,9 @@
       "year": 2022,
       "make": "Mazda",
       "model": "Mazda3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Mazda3 Gt At Awd | One Owner | Certified Pre-Ownedin Richmond",
@@ -627,7 +716,9 @@
       "year": 2022,
       "make": "Mazda3",
       "model": "Gt At Awd",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Mazda3 Gt At Awd | One Owner | Certified Pre-Ownedin Richmond",
@@ -643,7 +734,9 @@
       "year": 2022,
       "make": "Mazda3",
       "model": "Gt At Awd",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Mercedes-Benz A 250 4matic Hatchin Richmond",
@@ -659,7 +752,9 @@
       "year": 2022,
       "make": "Mercedes-Benz",
       "model": "A 250 4matic Hatchin Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Mercedes-Benz A 250 4matic Hatchin Richmond",
@@ -675,7 +770,9 @@
       "year": 2022,
       "make": "Mercedes-Benz",
       "model": "A 250 4matic Hatchin Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Tesla Model 3 ",
@@ -691,7 +788,9 @@
       "year": 2022,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Tesla Model Y ",
@@ -707,7 +806,9 @@
       "year": 2022,
       "make": "Tesla",
       "model": "Model Y",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Tesla Model 3 ",
@@ -723,7 +824,9 @@
       "year": 2022,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Tesla Model Y ",
@@ -739,12 +842,15 @@
       "year": 2022,
       "make": "Tesla",
       "model": "Model Y",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-30 Gt Awd 2.5l I4 T At | No Accidents | One Owner | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gt I4 T At",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/34135eb7f543.html",
       "source_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_30-id14022786.html",
       "dealer_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_30-id14022786.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -754,13 +860,16 @@
       "odometer_km": 59697,
       "year": 2023,
       "make": "Mazda",
-      "model": "CX-30 Gt Awd 2.5l I4 T At",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-30 Gt Awd 2.5l I4 T At | No Accidents | One Owner | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gt I4 T At",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/5a8e243b3267.html",
       "source_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_30-id14022786.html?show_video=1",
       "dealer_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_30-id14022786.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -770,13 +879,16 @@
       "odometer_km": 59697,
       "year": 2023,
       "make": "Mazda",
-      "model": "CX-30 Gt Awd 2.5l I4 T At",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-30 Gt Awd 2.5l I4 At | No Accidents | One Owner | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gt I4 At",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/e94ba8ce5150.html",
       "source_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_30-id14095110.html",
       "dealer_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_30-id14095110.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -786,13 +898,16 @@
       "odometer_km": 43593,
       "year": 2023,
       "make": "Mazda",
-      "model": "CX-30 Gt Awd 2.5l I4 At",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-30 Gt Awd 2.5l I4 At | No Accidents | One Owner | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gt I4 At",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/a2534190eea2.html",
       "source_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_30-id14095110.html?show_video=1",
       "dealer_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_30-id14095110.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -802,13 +917,16 @@
       "odometer_km": 43593,
       "year": 2023,
       "make": "Mazda",
-      "model": "CX-30 Gt Awd 2.5l I4 At",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-30 Gt Awd 2.5l I4 At | No Accidents | One Owner | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gt I4 At",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/e7fd0b6f1aed.html",
       "source_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_30-id14258661.html",
       "dealer_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_30-id14258661.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -818,13 +936,16 @@
       "odometer_km": 130069,
       "year": 2023,
       "make": "Mazda",
-      "model": "CX-30 Gt Awd 2.5l I4 At",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-30 Gt Awd 2.5l I4 At | No Accidents | One Owner | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gt I4 At",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/2130e000916c.html",
       "source_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_30-id14258661.html?show_video=1",
       "dealer_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_30-id14258661.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -834,8 +955,10 @@
       "odometer_km": 130069,
       "year": 2023,
       "make": "Mazda",
-      "model": "CX-30 Gt Awd 2.5l I4 At",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-30 ",
@@ -851,7 +974,9 @@
       "year": 2023,
       "make": "Mazda",
       "model": "CX-30",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-30 ",
@@ -867,12 +992,15 @@
       "year": 2023,
       "make": "Mazda",
       "model": "CX-30",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-30 Gt Awd 2.5l I4 T At | No Accidents | One Owner | Dealer Serviced | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gt I4 T At",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/cddf32fd2ab2.html",
       "source_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_30-id14314698.html",
       "dealer_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_30-id14314698.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -882,13 +1010,16 @@
       "odometer_km": 37917,
       "year": 2023,
       "make": "Mazda",
-      "model": "CX-30 Gt Awd 2.5l I4 T At",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-30 Gt Awd 2.5l I4 T At | No Accidents | One Owner | Dealer Serviced | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gt I4 T At",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/01d2b1825505.html",
       "source_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_30-id14314698.html?show_video=1",
       "dealer_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_30-id14314698.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -898,13 +1029,16 @@
       "odometer_km": 37917,
       "year": 2023,
       "make": "Mazda",
-      "model": "CX-30 Gt Awd 2.5l I4 T At",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-30 Gs Awd At | One Owner | Dealer Serviced | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gs At",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/32a1914c8487.html",
       "source_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_30-id14314700.html",
       "dealer_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_30-id14314700.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -914,13 +1048,16 @@
       "odometer_km": 21685,
       "year": 2023,
       "make": "Mazda",
-      "model": "CX-30 Gs Awd At",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-30 Gs Awd At | One Owner | Dealer Serviced | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gs At",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/68acf0085e63.html",
       "source_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_30-id14314700.html?show_video=1",
       "dealer_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_30-id14314700.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -930,13 +1067,16 @@
       "odometer_km": 21685,
       "year": 2023,
       "make": "Mazda",
-      "model": "CX-30 Gs Awd At",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-30 Gx Awd At | No Accidents | One Owner | Dealer Serviced | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gx At",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/c15f898019f2.html",
       "source_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_30-id14314703.html",
       "dealer_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_30-id14314703.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -946,13 +1086,16 @@
       "odometer_km": 27125,
       "year": 2023,
       "make": "Mazda",
-      "model": "CX-30 Gx Awd At",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-30 Gx Awd At | No Accidents | One Owner | Dealer Serviced | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gx At",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/c027344eb030.html",
       "source_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_30-id14314703.html?show_video=1",
       "dealer_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_30-id14314703.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -962,8 +1105,10 @@
       "odometer_km": 27125,
       "year": 2023,
       "make": "Mazda",
-      "model": "CX-30 Gx Awd At",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-30 ",
@@ -979,7 +1124,9 @@
       "year": 2023,
       "make": "Mazda",
       "model": "CX-30",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-5 ",
@@ -995,7 +1142,9 @@
       "year": 2023,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-5 ",
@@ -1011,12 +1160,15 @@
       "year": 2023,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-5 Signature Awd At | One Owner | Dealer Serviced | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Signature At",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/04a5512aee93.html",
       "source_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_5-id14302113.html",
       "dealer_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_5-id14302113.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1026,13 +1178,16 @@
       "odometer_km": 37292,
       "year": 2023,
       "make": "Mazda",
-      "model": "CX-5 Signature Awd At",
-      "condition": "used"
+      "model": "CX-5",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-5 Signature Awd At | One Owner | Dealer Serviced | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Signature At",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/79bf4d49140a.html",
       "source_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_5-id14302113.html?show_video=1",
       "dealer_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_5-id14302113.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1042,13 +1197,16 @@
       "odometer_km": 37292,
       "year": 2023,
       "make": "Mazda",
-      "model": "CX-5 Signature Awd At",
-      "condition": "used"
+      "model": "CX-5",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-5 Sport Design Awd Cd | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport Design Cd",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/7a966ef223f8.html",
       "source_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_5-id14331355.html",
       "dealer_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_5-id14331355.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1058,13 +1216,16 @@
       "odometer_km": 68844,
       "year": 2023,
       "make": "Mazda",
-      "model": "CX-5 Sport Design Awd Cd",
-      "condition": "used"
+      "model": "CX-5",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-5 Sport Design Awd Cd | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport Design Cd",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/ee70408604ba.html",
       "source_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_5-id14331355.html?show_video=1",
       "dealer_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_5-id14331355.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1074,13 +1235,16 @@
       "odometer_km": 68844,
       "year": 2023,
       "make": "Mazda",
-      "model": "CX-5 Sport Design Awd Cd",
-      "condition": "used"
+      "model": "CX-5",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-5 Signature Awd At | One Owner | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Signature At",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/bfee6c0fb572.html",
       "source_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_5-id14337913.html",
       "dealer_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_5-id14337913.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1090,13 +1254,16 @@
       "odometer_km": 30546,
       "year": 2023,
       "make": "Mazda",
-      "model": "CX-5 Signature Awd At",
-      "condition": "used"
+      "model": "CX-5",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-5 Signature Awd At | One Owner | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Signature At",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/55a36b1ef43a.html",
       "source_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_5-id14337913.html?show_video=1",
       "dealer_url": "https://www.signaturemazda.com/used/2023-Mazda-CX_5-id14337913.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1106,8 +1273,10 @@
       "odometer_km": 30546,
       "year": 2023,
       "make": "Mazda",
-      "model": "CX-5 Signature Awd At",
-      "condition": "used"
+      "model": "CX-5",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-5 ",
@@ -1123,7 +1292,9 @@
       "year": 2023,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-50 ",
@@ -1139,7 +1310,9 @@
       "year": 2023,
       "make": "Mazda",
       "model": "CX-50",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-30 ",
@@ -1155,7 +1328,9 @@
       "year": 2023,
       "make": "Mazda",
       "model": "CX-30",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-5 ",
@@ -1171,7 +1346,9 @@
       "year": 2023,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-50 ",
@@ -1187,7 +1364,9 @@
       "year": 2023,
       "make": "Mazda",
       "model": "CX-50",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Tesla Model Y ",
@@ -1203,7 +1382,9 @@
       "year": 2023,
       "make": "Tesla",
       "model": "Model Y",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Tesla Model Y ",
@@ -1219,7 +1400,9 @@
       "year": 2023,
       "make": "Tesla",
       "model": "Model Y",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X6 ",
@@ -1235,7 +1418,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X6",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X6 ",
@@ -1251,13 +1436,16 @@
       "year": 2024,
       "make": "BMW",
       "model": "X6",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Charger Daytona ",
       "vin": "2C3CDBCK7RR203727",
       "stock": 14314690,
       "color": "{$COLOREX}",
+      "trim": "Daytona",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/5bdc9d349e0c.html",
       "source_url": "https://www.signaturemazda.com/used/2024-Dodge-Charger_Daytona.html",
       "dealer_url": "https://www.signaturemazda.com/used/2024-Dodge-Charger_Daytona.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1266,14 +1454,17 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Dodge",
-      "model": "Charger Daytona",
-      "condition": "used"
+      "model": "Charger",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Charger Daytona ",
       "vin": "2C3CDBCK7RR203727",
       "stock": 14314690,
       "color": "{$COLOREX}",
+      "trim": "Daytona",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/5bdc9d349e0c.html",
       "source_url": "https://www.signaturemazda.com/used/2024-Dodge-Charger_Daytona.html",
       "dealer_url": "https://www.signaturemazda.com/used/2024-Dodge-Charger_Daytona.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1282,13 +1473,16 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Dodge",
-      "model": "Charger Daytona",
-      "condition": "new"
+      "model": "Charger",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda CX-30 Gt Turbo Awd | Dealer Serviced | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gt Turbo",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/39991e49bf75.html",
       "source_url": "https://www.signaturemazda.com/used/2024-Mazda-CX_30-id14159939.html",
       "dealer_url": "https://www.signaturemazda.com/used/2024-Mazda-CX_30-id14159939.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1298,13 +1492,16 @@
       "odometer_km": 23611,
       "year": 2024,
       "make": "Mazda",
-      "model": "CX-30 Gt Turbo Awd",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda CX-30 Gt Turbo Awd | Dealer Serviced | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gt Turbo",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/801c9cbc51f1.html",
       "source_url": "https://www.signaturemazda.com/used/2024-Mazda-CX_30-id14159939.html?show_video=1",
       "dealer_url": "https://www.signaturemazda.com/used/2024-Mazda-CX_30-id14159939.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1314,13 +1511,16 @@
       "odometer_km": 23611,
       "year": 2024,
       "make": "Mazda",
-      "model": "CX-30 Gt Turbo Awd",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda CX-30 Gt Turbo Awd | One Owner | Dealer Serviced | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gt Turbo",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/ac288ccda864.html",
       "source_url": "https://www.signaturemazda.com/used/2024-Mazda-CX_30-id14192698.html",
       "dealer_url": "https://www.signaturemazda.com/used/2024-Mazda-CX_30-id14192698.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1330,13 +1530,16 @@
       "odometer_km": 33099,
       "year": 2024,
       "make": "Mazda",
-      "model": "CX-30 Gt Turbo Awd",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda CX-30 Gt Turbo Awd | One Owner | Dealer Serviced | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gt Turbo",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/cdcfba5a35f7.html",
       "source_url": "https://www.signaturemazda.com/used/2024-Mazda-CX_30-id14192698.html?show_video=1",
       "dealer_url": "https://www.signaturemazda.com/used/2024-Mazda-CX_30-id14192698.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1346,13 +1549,16 @@
       "odometer_km": 33099,
       "year": 2024,
       "make": "Mazda",
-      "model": "CX-30 Gt Turbo Awd",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda CX-30 Gt Awd | One Owner | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gt",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/b82e571cb43a.html",
       "source_url": "https://www.signaturemazda.com/used/2024-Mazda-CX_30-id14317715.html",
       "dealer_url": "https://www.signaturemazda.com/used/2024-Mazda-CX_30-id14317715.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1362,13 +1568,16 @@
       "odometer_km": 29391,
       "year": 2024,
       "make": "Mazda",
-      "model": "CX-30 Gt Awd",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda CX-30 Gt Awd | One Owner | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gt",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/72f42fa582d5.html",
       "source_url": "https://www.signaturemazda.com/used/2024-Mazda-CX_30-id14317715.html?show_video=1",
       "dealer_url": "https://www.signaturemazda.com/used/2024-Mazda-CX_30-id14317715.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1378,8 +1587,10 @@
       "odometer_km": 29391,
       "year": 2024,
       "make": "Mazda",
-      "model": "CX-30 Gt Awd",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda CX-30 ",
@@ -1395,12 +1606,15 @@
       "year": 2024,
       "make": "Mazda",
       "model": "CX-30",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda CX-5 Signature Awd At | One Owner | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Signature At",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/b203fc3b94c7.html",
       "source_url": "https://www.signaturemazda.com/used/2024-Mazda-CX_5-id14368341.html",
       "dealer_url": "https://www.signaturemazda.com/used/2024-Mazda-CX_5-id14368341.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1410,13 +1624,16 @@
       "odometer_km": 38772,
       "year": 2024,
       "make": "Mazda",
-      "model": "CX-5 Signature Awd At",
-      "condition": "used"
+      "model": "CX-5",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda CX-5 Signature Awd At | One Owner | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Signature At",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/c23f2419b0e4.html",
       "source_url": "https://www.signaturemazda.com/used/2024-Mazda-CX_5-id14368341.html?show_video=1",
       "dealer_url": "https://www.signaturemazda.com/used/2024-Mazda-CX_5-id14368341.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1426,8 +1643,10 @@
       "odometer_km": 38772,
       "year": 2024,
       "make": "Mazda",
-      "model": "CX-5 Signature Awd At",
-      "condition": "used"
+      "model": "CX-5",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda CX-5 ",
@@ -1443,7 +1662,9 @@
       "year": 2024,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda CX-50 ",
@@ -1459,7 +1680,9 @@
       "year": 2024,
       "make": "Mazda",
       "model": "CX-50",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda CX-90 MHEV ",
@@ -1475,7 +1698,9 @@
       "year": 2024,
       "make": "Mazda",
       "model": "CX-90 MHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda Mazda3 ",
@@ -1491,7 +1716,9 @@
       "year": 2024,
       "make": "Mazda",
       "model": "Mazda3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda CX-30 ",
@@ -1507,7 +1734,9 @@
       "year": 2024,
       "make": "Mazda",
       "model": "CX-30",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda CX-5 ",
@@ -1523,7 +1752,9 @@
       "year": 2024,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda CX-50 ",
@@ -1539,7 +1770,9 @@
       "year": 2024,
       "make": "Mazda",
       "model": "CX-50",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda CX-90 MHEV ",
@@ -1555,7 +1788,9 @@
       "year": 2024,
       "make": "Mazda",
       "model": "CX-90 MHEV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda Mazda3 ",
@@ -1571,7 +1806,9 @@
       "year": 2024,
       "make": "Mazda",
       "model": "Mazda3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda3 Gt Auto Fwdin Richmond",
@@ -1587,12 +1824,15 @@
       "year": 2024,
       "make": "Mazda3",
       "model": "Gt Auto Fwdin Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi Outlander Se S-Awcin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Se S-Awc",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/699334a45514.html",
       "source_url": "https://www.signaturemazda.com/used/2024-Mitsubishi-Outlander-id14410570.html",
       "dealer_url": "https://www.signaturemazda.com/used/2024-Mitsubishi-Outlander-id14410570.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1602,8 +1842,10 @@
       "odometer_km": 42765,
       "year": 2024,
       "make": "Mitsubishi",
-      "model": "Outlander Se S-Awcin Richmond",
-      "condition": "used"
+      "model": "Outlander",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi Outlander ",
@@ -1619,12 +1861,15 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi RVR Se Awc | No Accidents | One Ownerin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Se Awc",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/1a1c3efe565a.html",
       "source_url": "https://www.signaturemazda.com/used/2024-Mitsubishi-RVR-id14123344.html",
       "dealer_url": "https://www.signaturemazda.com/used/2024-Mitsubishi-RVR-id14123344.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1634,13 +1879,16 @@
       "odometer_km": 14245,
       "year": 2024,
       "make": "Mitsubishi",
-      "model": "RVR Se Awc",
-      "condition": "used"
+      "model": "RVR",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi RVR Se Awc | No Accidents | One Ownerin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Se Awc",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/e9eda640e524.html",
       "source_url": "https://www.signaturemazda.com/used/2024-Mitsubishi-RVR-id14123344.html?show_video=1",
       "dealer_url": "https://www.signaturemazda.com/used/2024-Mitsubishi-RVR-id14123344.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1650,8 +1898,10 @@
       "odometer_km": 14245,
       "year": 2024,
       "make": "Mitsubishi",
-      "model": "RVR Se Awc",
-      "condition": "used"
+      "model": "RVR",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi RVR ",
@@ -1667,7 +1917,9 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "RVR",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi Outlander ",
@@ -1683,7 +1935,9 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi RVR ",
@@ -1699,12 +1953,15 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "RVR",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Jetta Highline 1.5 T 8sp | One Ownerin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Highline 1.5 T 8sp",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/02baf0c41f5b.html",
       "source_url": "https://www.signaturemazda.com/used/2024-Volkswagen-Jetta-id14324105.html",
       "dealer_url": "https://www.signaturemazda.com/used/2024-Volkswagen-Jetta-id14324105.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1714,13 +1971,16 @@
       "odometer_km": 56214,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Jetta Highline 1.5 T 8sp",
-      "condition": "used"
+      "model": "Jetta",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Jetta Highline 1.5 T 8sp | One Ownerin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Highline 1.5 T 8sp",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/2cacf53f8ef4.html",
       "source_url": "https://www.signaturemazda.com/used/2024-Volkswagen-Jetta-id14324105.html?show_video=1",
       "dealer_url": "https://www.signaturemazda.com/used/2024-Volkswagen-Jetta-id14324105.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1730,8 +1990,10 @@
       "odometer_km": 56214,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Jetta Highline 1.5 T 8sp",
-      "condition": "used"
+      "model": "Jetta",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Jetta ",
@@ -1747,7 +2009,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Jetta ",
@@ -1763,12 +2027,15 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-30 Gt Awd | No Accidents | One Owner | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gt",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/f5a03bab0cd7.html",
       "source_url": "https://www.signaturemazda.com/used/2025-Mazda-CX_30-id14064533.html",
       "dealer_url": "https://www.signaturemazda.com/used/2025-Mazda-CX_30-id14064533.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1778,13 +2045,16 @@
       "odometer_km": 31700,
       "year": 2025,
       "make": "Mazda",
-      "model": "CX-30 Gt Awd",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-30 Gt Awd | No Accidents | One Owner | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gt",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/b7cba93686ce.html",
       "source_url": "https://www.signaturemazda.com/used/2025-Mazda-CX_30-id14064533.html?show_video=1",
       "dealer_url": "https://www.signaturemazda.com/used/2025-Mazda-CX_30-id14064533.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1794,13 +2064,16 @@
       "odometer_km": 31700,
       "year": 2025,
       "make": "Mazda",
-      "model": "CX-30 Gt Awd",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-30 Suna Awdin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Suna",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/272adfeb7499.html",
       "source_url": "https://www.signaturemazda.com/used/2025-Mazda-CX_30-id14429750.html",
       "dealer_url": "https://www.signaturemazda.com/used/2025-Mazda-CX_30-id14429750.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1810,8 +2083,10 @@
       "odometer_km": 8503,
       "year": 2025,
       "make": "Mazda",
-      "model": "CX-30 Suna Awdin Richmond",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-30 ",
@@ -1827,12 +2102,15 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-30",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-5 Gx Awd | No Accidents | One Owner | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gx",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/0ddb78e63501.html",
       "source_url": "https://www.signaturemazda.com/used/2025-Mazda-CX_5-id14246177.html",
       "dealer_url": "https://www.signaturemazda.com/used/2025-Mazda-CX_5-id14246177.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1842,13 +2120,16 @@
       "odometer_km": 12881,
       "year": 2025,
       "make": "Mazda",
-      "model": "CX-5 Gx Awd",
-      "condition": "used"
+      "model": "CX-5",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-5 Gx Awd | No Accidents | One Owner | Certified Pre-Ownedin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gx",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/39083cf87d8f.html",
       "source_url": "https://www.signaturemazda.com/used/2025-Mazda-CX_5-id14246177.html?show_video=1",
       "dealer_url": "https://www.signaturemazda.com/used/2025-Mazda-CX_5-id14246177.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1858,8 +2139,10 @@
       "odometer_km": 12881,
       "year": 2025,
       "make": "Mazda",
-      "model": "CX-5 Gx Awd",
-      "condition": "used"
+      "model": "CX-5",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-5 ",
@@ -1875,7 +2158,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-50 ",
@@ -1891,7 +2176,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-50",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-50 Hybrid ",
@@ -1907,7 +2194,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-50 Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-90 MHEV ",
@@ -1923,7 +2212,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-90 MHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-90 PHEV ",
@@ -1939,7 +2230,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-90 PHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-30 ",
@@ -1955,7 +2248,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-30",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-5 ",
@@ -1971,7 +2266,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-50 ",
@@ -1987,7 +2284,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-50",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-50 Hybrid ",
@@ -2003,7 +2302,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-50 Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-90 MHEV ",
@@ -2019,7 +2320,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-90 MHEV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-90 PHEV ",
@@ -2035,7 +2338,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-90 PHEV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 ",
@@ -2051,7 +2356,9 @@
       "year": 2026,
       "make": "Mazda",
       "model": "CX-30",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 ",
@@ -2067,7 +2374,9 @@
       "year": 2026,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 MHEV ",
@@ -2083,7 +2392,9 @@
       "year": 2026,
       "make": "Mazda",
       "model": "CX-70 MHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 PHEV ",
@@ -2099,7 +2410,9 @@
       "year": 2026,
       "make": "Mazda",
       "model": "CX-70 PHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 MHEV ",
@@ -2115,7 +2428,9 @@
       "year": 2026,
       "make": "Mazda",
       "model": "CX-90 MHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 PHEV ",
@@ -2131,7 +2446,9 @@
       "year": 2026,
       "make": "Mazda",
       "model": "CX-90 PHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda MX-5in Richmond",
@@ -2146,12 +2463,15 @@
       "year": 2026,
       "make": "Mazda",
       "model": "MX-5in Richmond",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda MX-5 RFin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "RF",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/e4a8889381ab.html",
       "source_url": "https://www.signaturemazda.com/new/2026-Mazda-MX_5_RF.html",
       "dealer_url": "https://www.signaturemazda.com/new/2026-Mazda-MX_5_RF.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2160,8 +2480,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "MX-5 RFin Richmond",
-      "condition": "used"
+      "model": "MX-5",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 ",
@@ -2177,13 +2499,16 @@
       "year": 2026,
       "make": "Mazda",
       "model": "Mazda3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sport ",
       "vin": "JM1BPAKL3T1897072",
       "stock": 14069742,
       "color": "{$COLOREX}",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/0baa1a6162a4.html",
       "source_url": "https://www.signaturemazda.com/new/2026-Mazda-Mazda3_Sport.html",
       "dealer_url": "https://www.signaturemazda.com/new/2026-Mazda-Mazda3_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2192,8 +2517,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sport",
-      "condition": "used"
+      "model": "Mazda3",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 ",
@@ -2209,7 +2536,9 @@
       "year": 2026,
       "make": "Mazda",
       "model": "CX-30",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 ",
@@ -2225,7 +2554,9 @@
       "year": 2026,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 MHEV ",
@@ -2241,7 +2572,9 @@
       "year": 2026,
       "make": "Mazda",
       "model": "CX-70 MHEV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 PHEV ",
@@ -2257,7 +2590,9 @@
       "year": 2026,
       "make": "Mazda",
       "model": "CX-70 PHEV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 MHEV ",
@@ -2273,7 +2608,9 @@
       "year": 2026,
       "make": "Mazda",
       "model": "CX-90 MHEV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 PHEV ",
@@ -2289,7 +2626,9 @@
       "year": 2026,
       "make": "Mazda",
       "model": "CX-90 PHEV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda MX-5in Richmond",
@@ -2304,12 +2643,15 @@
       "year": 2026,
       "make": "Mazda",
       "model": "MX-5in Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda MX-5 RFin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "RF",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/e4a8889381ab.html",
       "source_url": "https://www.signaturemazda.com/new/2026-Mazda-MX_5_RF.html",
       "dealer_url": "https://www.signaturemazda.com/new/2026-Mazda-MX_5_RF.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2318,8 +2660,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "MX-5 RFin Richmond",
-      "condition": "new"
+      "model": "MX-5",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 ",
@@ -2335,13 +2679,16 @@
       "year": 2026,
       "make": "Mazda",
       "model": "Mazda3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sport ",
       "vin": "JM1BPAKL3T1897072",
       "stock": 14069742,
       "color": "{$COLOREX}",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/0baa1a6162a4.html",
       "source_url": "https://www.signaturemazda.com/new/2026-Mazda-Mazda3_Sport.html",
       "dealer_url": "https://www.signaturemazda.com/new/2026-Mazda-Mazda3_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2350,13 +2697,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sport",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 New Gx Awdin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "New Gx",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/4bff274690f0.html",
       "source_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14156167.html",
       "dealer_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14156167.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2365,13 +2715,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 New Gx Awdin Richmond",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 New Gx Awdin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "New Gx",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/b65adff8fa1f.html",
       "source_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14156168.html",
       "dealer_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14156168.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2380,13 +2733,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 New Gx Awdin Richmond",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 New Gx Awdin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "New Gx",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/a0f65a71c786.html",
       "source_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14156170.html",
       "dealer_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14156170.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2395,13 +2751,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 New Gx Awdin Richmond",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 New Gx Awdin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "New Gx",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/bb99d53b0504.html",
       "source_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14156172.html",
       "dealer_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14156172.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2410,13 +2769,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 New Gx Awdin Richmond",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 New Gx Awdin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "New Gx",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/c2fe79b534c9.html",
       "source_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14175238.html",
       "dealer_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14175238.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2425,13 +2787,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 New Gx Awdin Richmond",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 New Gx Awdin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "New Gx",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/bd515804a1cc.html",
       "source_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14175240.html",
       "dealer_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14175240.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2440,13 +2805,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 New Gx Awdin Richmond",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 New Gx Awdin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "New Gx",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/d69d0ee33ac1.html",
       "source_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14213652.html",
       "dealer_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14213652.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2455,13 +2823,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 New Gx Awdin Richmond",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 New Gx Awdin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "New Gx",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/426b41a0504d.html",
       "source_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14246183.html",
       "dealer_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14246183.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2470,13 +2841,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 New Gx Awdin Richmond",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 New Gx Awdin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "New Gx",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/c08eb8718ad6.html",
       "source_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14246184.html",
       "dealer_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14246184.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2485,13 +2859,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 New Gx Awdin Richmond",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 New Gx Awdin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "New Gx",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/53f113547f01.html",
       "source_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14276812.html",
       "dealer_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14276812.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2500,13 +2877,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 New Gx Awdin Richmond",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 New Gx Awdin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "New Gx",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/bed9402389bd.html",
       "source_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14308416.html",
       "dealer_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14308416.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2515,13 +2895,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 New Gx Awdin Richmond",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 Gx Awdin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gx",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/853ba9b567f8.html",
       "source_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14368356.html",
       "dealer_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14368356.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2530,13 +2913,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 Gx Awdin Richmond",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 Gx Awdin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gx",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/98837a68b879.html",
       "source_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14368357.html",
       "dealer_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14368357.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2545,13 +2931,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 Gx Awdin Richmond",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 Gx Awdin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gx",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/cdf2bcd704af.html",
       "source_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14368358.html",
       "dealer_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14368358.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2560,13 +2949,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 Gx Awdin Richmond",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 Gx Awdin Richmond",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gx",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/f2141efee153.html",
       "source_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14368359.html",
       "dealer_url": "https://www.signaturemazda.com/new/inventory/2026-Mazda-CX_30-id14368359.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2575,8 +2967,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 Gx Awdin Richmond",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 New Gx At Sedanin Richmond",
@@ -2591,7 +2985,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "New Gx At Sedanin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 Gx Atin Richmond",
@@ -2606,7 +3002,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "Gx Atin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 Gs Atin Richmond",
@@ -2621,7 +3019,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "Gs Atin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 New Gx At Sedanin Richmond",
@@ -2636,7 +3036,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "New Gx At Sedanin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 New Gx At Sedanin Richmond",
@@ -2651,7 +3053,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "New Gx At Sedanin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 New Gx At Sedanin Richmond",
@@ -2666,7 +3070,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "New Gx At Sedanin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 Gx Atin Richmond",
@@ -2681,7 +3087,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "Gx Atin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 Gx Atin Richmond",
@@ -2696,7 +3104,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "Gx Atin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 Gs Atin Richmond",
@@ -2711,7 +3121,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "Gs Atin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 Sport Gx Auto Fwdin Richmond",
@@ -2726,7 +3138,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "Sport Gx Auto Fwdin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 Sport New Gx Auto Fwd Hatchbackin Richmond",
@@ -2741,7 +3155,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "Sport New Gx Auto Fwd Hatchbackin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 Sport New Gx Fwd Hatchbackin Richmond",
@@ -2756,7 +3172,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "Sport New Gx Fwd Hatchbackin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 Sport Gx Auto Fwdin Richmond",
@@ -2771,7 +3189,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "Sport Gx Auto Fwdin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 Sport New Gx Fwd Hatchbackin Richmond",
@@ -2786,7 +3206,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "Sport New Gx Fwd Hatchbackin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 Sport Gx Auto Fwdin Richmond",
@@ -2801,7 +3223,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "Sport Gx Auto Fwdin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 Sport Gx Auto Fwdin Richmond",
@@ -2816,7 +3240,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "Sport Gx Auto Fwdin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 Sport Gx Auto Fwdin Richmond",
@@ -2831,7 +3257,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "Sport Gx Auto Fwdin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 Sport Gs Auto Fwdin Richmond",
@@ -2846,7 +3274,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "Sport Gs Auto Fwdin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 Sport New Gs Fwd Hatchbackin Richmond",
@@ -2861,7 +3291,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "Sport New Gs Fwd Hatchbackin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 Sport Gx Auto Fwdin Richmond",
@@ -2876,7 +3308,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "Sport Gx Auto Fwdin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 Sport New Gs Fwd Hatchbackin Richmond",
@@ -2891,7 +3325,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "Sport New Gs Fwd Hatchbackin Richmond",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     }
   ]
 }
