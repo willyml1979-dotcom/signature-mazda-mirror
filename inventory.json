@@ -1,6 +1,6 @@
 {
   "dealership": "Signature Mazda",
-  "generated_at": "2026-10-26T02:29:14",
+  "generated_at": "2026-10-26T02:32:59",
   "vehicle_count": 168,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -84,6 +84,13 @@
     },
     {
       "name": "New 2026 Mazda CX-30 Gx Awdin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/f2141efee153.html",
+      "condition": "new",
+      "price": 31295.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-30 Gx Awdin Richmond",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/a41940b7a4fa.html",
       "condition": "new",
       "price": 30995.0,
@@ -111,6 +118,55 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Mazda3 New Gx At Sedanin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/fed7e3f6c62c.html",
+      "condition": "new",
+      "price": 26845.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 Gx Atin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/e9901e3c376c.html",
+      "condition": "new",
+      "price": 26845.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 New Gx At Sedanin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/9db94ac49e65.html",
+      "condition": "new",
+      "price": 27245.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 New Gx At Sedanin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/e5885543b9bb.html",
+      "condition": "new",
+      "price": 26845.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 Gx Atin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/80f5651cc1c4.html",
+      "condition": "new",
+      "price": 26845.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 Gx Atin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/20bba021e192.html",
+      "condition": "new",
+      "price": 26845.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 Gs Atin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/c464ee60755a.html",
+      "condition": "new",
+      "price": 29445.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Mazda3 Gx Atin Richmond",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/b27ec5092eeb.html",
       "condition": "new",
@@ -129,6 +185,48 @@
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/2ece15f2c1aa.html",
       "condition": "new",
       "price": 32695.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 Sport Gx Auto Fwdin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/99d0fc567277.html",
+      "condition": "new",
+      "price": 28095.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 Sport New Gx Auto Fwd Hatchbackin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/da8923e99119.html",
+      "condition": "new",
+      "price": 27595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 Sport New Gx Fwd Hatchbackin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/72989b3c0f32.html",
+      "condition": "new",
+      "price": 27595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 Sport Gx Auto Fwdin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/2748224fb088.html",
+      "condition": "new",
+      "price": 27995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 Sport New Gx Fwd Hatchbackin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/dfeface604f5.html",
+      "condition": "new",
+      "price": 27595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 Sport Gx Auto Fwdin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/b0a9fffb9876.html",
+      "condition": "new",
+      "price": 27595.0,
       "price_currency": "CAD"
     },
     {
@@ -1479,36 +1577,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mazda CX-30 Gx Awdin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/f2141efee153.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "new",
-      "price": 31295.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 New Gx At Sedanin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/fed7e3f6c62c.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "New Gx At Sedanin Richmond",
-      "condition": "new",
-      "price": 26845.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 Gx Atin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/e9901e3c376c.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "Gx Atin Richmond",
-      "condition": "new",
-      "price": 26845.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Mazda3 New Gx At Sedan demoin Richmond",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/791841f186dc.html",
       "year": 2026,
@@ -1516,116 +1584,6 @@
       "model": "New Gx At Sedan demoin Richmond",
       "condition": "new",
       "price": 25845.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 New Gx At Sedanin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/9db94ac49e65.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "New Gx At Sedanin Richmond",
-      "condition": "new",
-      "price": 27245.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 New Gx At Sedanin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/e5885543b9bb.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "New Gx At Sedanin Richmond",
-      "condition": "new",
-      "price": 26845.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 Gx Atin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/80f5651cc1c4.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "Gx Atin Richmond",
-      "condition": "new",
-      "price": 26845.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 Gx Atin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/20bba021e192.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "Gx Atin Richmond",
-      "condition": "new",
-      "price": 26845.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 Gs Atin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/c464ee60755a.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "Gs Atin Richmond",
-      "condition": "new",
-      "price": 29445.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 Sport Gx Auto Fwdin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/99d0fc567277.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "Sport Gx Auto Fwdin Richmond",
-      "condition": "new",
-      "price": 28095.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 Sport New Gx Auto Fwd Hatchbackin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/da8923e99119.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "Sport New Gx Auto Fwd Hatchbackin Richmond",
-      "condition": "new",
-      "price": 27595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 Sport New Gx Fwd Hatchbackin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/72989b3c0f32.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "Sport New Gx Fwd Hatchbackin Richmond",
-      "condition": "new",
-      "price": 27595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 Sport Gx Auto Fwdin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/2748224fb088.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "Sport Gx Auto Fwdin Richmond",
-      "condition": "new",
-      "price": 27995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 Sport New Gx Fwd Hatchbackin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/dfeface604f5.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "Sport New Gx Fwd Hatchbackin Richmond",
-      "condition": "new",
-      "price": 27595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 Sport Gx Auto Fwdin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/b0a9fffb9876.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "Sport Gx Auto Fwdin Richmond",
-      "condition": "new",
-      "price": 27595.0,
       "price_currency": "CAD"
     },
     {
