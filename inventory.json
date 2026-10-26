@@ -1,6 +1,6 @@
 {
   "dealership": "Signature Mazda",
-  "generated_at": "2026-10-25T17:21:18",
+  "generated_at": "2026-10-26T02:29:14",
   "vehicle_count": 168,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -224,7 +224,7 @@
       "make": "Mercedes-Benz",
       "model": "GLA",
       "condition": "used",
-      "price": 22416.0,
+      "price": 21990.0,
       "price_currency": "CAD"
     },
     {
@@ -267,7 +267,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "used",
-      "price": 26812.0,
+      "price": 25999.0,
       "price_currency": "CAD"
     },
     {
@@ -277,7 +277,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "used",
-      "price": 26812.0,
+      "price": 25999.0,
       "price_currency": "CAD"
     },
     {
@@ -339,7 +339,7 @@
       "make": "Mazda",
       "model": "CX-9",
       "condition": "used",
-      "price": 33433.0,
+      "price": 32990.0,
       "price_currency": "CAD"
     },
     {
@@ -360,7 +360,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "used",
-      "price": 23878.0,
+      "price": 22990.0,
       "price_currency": "CAD"
     },
     {
@@ -370,7 +370,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "used",
-      "price": 23878.0,
+      "price": 22990.0,
       "price_currency": "CAD"
     },
     {
@@ -381,7 +381,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "used",
-      "price": 23878.0,
+      "price": 22990.0,
       "price_currency": "CAD"
     },
     {
@@ -421,7 +421,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "used",
-      "price": 32166.0,
+      "price": 30990.0,
       "price_currency": "CAD"
     },
     {
@@ -557,7 +557,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "used",
-      "price": 28753.0,
+      "price": 26990.0,
       "price_currency": "CAD"
     },
     {
@@ -567,7 +567,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "used",
-      "price": 28753.0,
+      "price": 26990.0,
       "price_currency": "CAD"
     },
     {
@@ -587,7 +587,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "used",
-      "price": 25341.0,
+      "price": 24990.0,
       "price_currency": "CAD"
     },
     {
@@ -1100,7 +1100,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "used",
-      "price": 31191.0,
+      "price": 31990.0,
       "price_currency": "CAD"
     },
     {
@@ -1184,7 +1184,7 @@
       "make": "Mazda",
       "model": "CX-50 Hybrid",
       "condition": "used",
-      "price": 48741.0,
+      "price": 47990.0,
       "price_currency": "CAD"
     },
     {
@@ -1217,7 +1217,7 @@
       "make": "Mazda",
       "model": "CX-90 MHEV",
       "condition": "used",
-      "price": 44841.0,
+      "price": 43990.0,
       "price_currency": "CAD"
     },
     {
@@ -1228,7 +1228,7 @@
       "make": "Mazda",
       "model": "CX-90 PHEV",
       "condition": "used",
-      "price": 45816.0,
+      "price": 44990.0,
       "price_currency": "CAD"
     },
     {
