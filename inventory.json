@@ -1,7 +1,7 @@
 {
   "dealership": "Signature Mazda",
-  "generated_at": "2026-10-26T10:53:19",
-  "vehicle_count": 168,
+  "generated_at": "2026-10-26T10:57:47",
+  "vehicle_count": 171,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -181,8 +181,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Mazda3 Gs Atin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/227b3f8695a7.html",
+      "condition": "new",
+      "price": 32145.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Mazda3 Sport New Gs Fwd Hatchbackin Richmond",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/2ece15f2c1aa.html",
+      "condition": "new",
+      "price": 32695.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 Sport New Gs Fwd Hatchbackin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/4457bdd601fc.html",
       "condition": "new",
       "price": 32695.0,
       "price_currency": "CAD"
@@ -225,6 +239,20 @@
     {
       "name": "New 2026 Mazda3 Sport Gx Auto Fwdin Richmond",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/b0a9fffb9876.html",
+      "condition": "new",
+      "price": 27595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 Sport Gx Auto Fwdin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/843bc940c467.html",
+      "condition": "new",
+      "price": 27595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 Sport Gx Auto Fwdin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/8852ada8dc62.html",
       "condition": "new",
       "price": 27595.0,
       "price_currency": "CAD"
@@ -355,7 +383,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "new",
-      "price": 41916.0,
+      "price": 41990.0,
       "price_currency": "CAD"
     },
     {
@@ -448,7 +476,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "new",
-      "price": 26812.0,
+      "price": 25999.0,
       "price_currency": "CAD"
     },
     {
@@ -541,7 +569,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 29246.0,
+      "price": 27995.0,
       "price_currency": "CAD"
     },
     {
@@ -552,7 +580,7 @@
       "make": "Mazda",
       "model": "Mazda3",
       "condition": "new",
-      "price": 29246.0,
+      "price": 27995.0,
       "price_currency": "CAD"
     },
     {
@@ -605,7 +633,18 @@
       "make": "Tesla",
       "model": "Model 3",
       "condition": "new",
-      "price": 36066.0,
+      "price": 34990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Tesla Model Y ",
+      "vin": "7SAYGDEEXNF486290",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/9554ec97884e.html",
+      "year": 2022,
+      "make": "Tesla",
+      "model": "Model Y",
+      "condition": "new",
+      "price": 48990.0,
       "price_currency": "CAD"
     },
     {
@@ -743,24 +782,24 @@
     },
     {
       "name": "2023 Mazda CX-30 ",
-      "vin": "3MVDMBCM3PM512244",
+      "vin": "3MVDMBDM0PM569516",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/4958092f0b7a.html",
       "year": 2023,
       "make": "Mazda",
       "model": "CX-30",
       "condition": "new",
-      "price": 25341.0,
+      "price": 24990.0,
       "price_currency": "CAD"
     },
     {
       "name": "2023 Mazda CX-5 ",
-      "vin": "JM3KFBCM9P0146108",
+      "vin": "JM3KFBEY9P0228646",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/2a2cb0008b3f.html",
       "year": 2023,
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 33141.0,
+      "price": 33986.0,
       "price_currency": "CAD"
     },
     {
@@ -771,7 +810,7 @@
       "make": "Mazda",
       "model": "CX-50",
       "condition": "new",
-      "price": 34408.0,
+      "price": 34990.0,
       "price_currency": "CAD"
     },
     {
@@ -813,7 +852,7 @@
       "make": "Tesla",
       "model": "Model Y",
       "condition": "new",
-      "price": 42887.0,
+      "price": 43986.0,
       "price_currency": "CAD"
     },
     {
@@ -1584,26 +1623,6 @@
       "model": "New Gx At Sedan demoin Richmond",
       "condition": "new",
       "price": 25845.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 Sport Gx Auto Fwdin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/843bc940c467.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "Sport Gx Auto Fwdin Richmond",
-      "condition": "new",
-      "price": 27595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 Sport Gx Auto Fwdin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/8852ada8dc62.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "Sport Gx Auto Fwdin Richmond",
-      "condition": "new",
-      "price": 27595.0,
       "price_currency": "CAD"
     },
     {
