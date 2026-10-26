@@ -1,6 +1,6 @@
 {
   "dealership": "Signature Mazda",
-  "generated_at": "2026-10-26T02:32:59",
+  "generated_at": "2026-10-26T10:53:19",
   "vehicle_count": 168,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -781,7 +781,7 @@
       "make": "Mazda3",
       "model": "Gt T At Awd",
       "condition": "used",
-      "price": 27297.0,
+      "price": 26996.0,
       "price_currency": "CAD"
     },
     {
@@ -791,7 +791,7 @@
       "make": "Mazda3",
       "model": "Gt T At Awd",
       "condition": "used",
-      "price": 27297.0,
+      "price": 26996.0,
       "price_currency": "CAD"
     },
     {
@@ -845,7 +845,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "used",
-      "price": 30508.0,
+      "price": 29990.0,
       "price_currency": "CAD"
     },
     {
@@ -855,7 +855,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "used",
-      "price": 30508.0,
+      "price": 29990.0,
       "price_currency": "CAD"
     },
     {
@@ -867,26 +867,6 @@
       "model": "CX-30",
       "condition": "used",
       "price": 29990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mazda CX-5 Signature Awd At | No Accidents | One Owner | Certified Pre-Ownedin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/df11e0718085.html",
-      "year": 2024,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 33990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mazda CX-5 Signature Awd At | No Accidents | One Owner | Certified Pre-Ownedin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/32bf2bc8c2ee.html",
-      "year": 2024,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 33990.0,
       "price_currency": "CAD"
     },
     {
@@ -970,7 +950,7 @@
       "make": "Mazda",
       "model": "CX-90 PHEV",
       "condition": "used",
-      "price": 42891.0,
+      "price": 43990.0,
       "price_currency": "CAD"
     },
     {
@@ -1035,7 +1015,7 @@
       "make": "Mazda3",
       "model": "Gt Turbo Auto I",
       "condition": "used",
-      "price": 30216.0,
+      "price": 27990.0,
       "price_currency": "CAD"
     },
     {
@@ -1045,7 +1025,7 @@
       "make": "Mazda3",
       "model": "Gt Turbo Auto I",
       "condition": "used",
-      "price": 30216.0,
+      "price": 27990.0,
       "price_currency": "CAD"
     },
     {
@@ -1075,7 +1055,7 @@
       "make": "Mazda3",
       "model": "Sport Gt Auto I-Activ Awd",
       "condition": "used",
-      "price": 32653.0,
+      "price": 30990.0,
       "price_currency": "CAD"
     },
     {
@@ -1085,7 +1065,7 @@
       "make": "Mazda3",
       "model": "Sport Gt Auto I-Activ Awd",
       "condition": "used",
-      "price": 32653.0,
+      "price": 30990.0,
       "price_currency": "CAD"
     },
     {
@@ -1208,7 +1188,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "used",
-      "price": 30990.0,
+      "price": 29990.0,
       "price_currency": "CAD"
     },
     {
@@ -1230,6 +1210,26 @@
       "model": "CX-30",
       "condition": "used",
       "price": 29990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Mazda CX-5 Gs Awd | No Accidents | One Owner | Certified Pre-Ownedin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/7e91f73a5a72.html",
+      "year": 2025,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "used",
+      "price": 33990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Mazda CX-5 Gs Awd | No Accidents | One Owner | Certified Pre-Ownedin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/4922287b62db.html",
+      "year": 2025,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "used",
+      "price": 33990.0,
       "price_currency": "CAD"
     },
     {
