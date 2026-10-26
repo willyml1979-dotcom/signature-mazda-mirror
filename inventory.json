@@ -1,7 +1,7 @@
 {
   "dealership": "Signature Mazda",
-  "generated_at": "2026-10-25T17:17:27",
-  "vehicle_count": 169,
+  "generated_at": "2026-10-25T17:21:18",
+  "vehicle_count": 168,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -14,14 +14,91 @@
     },
     {
       "name": "New 2026 Mazda CX-30 New Gx Awdin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/4bff274690f0.html",
+      "condition": "new",
+      "price": 31295.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-30 New Gx Awdin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/b65adff8fa1f.html",
+      "condition": "new",
+      "price": 31295.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-30 New Gx Awdin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/bb99d53b0504.html",
+      "condition": "new",
+      "price": 31395.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-30 New Gx Awdin Richmond",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/9d5bb7c3adff.html",
       "condition": "new",
       "price": 31495.0,
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Mazda CX-30 New Gx Awdin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/bd515804a1cc.html",
+      "condition": "new",
+      "price": 30995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-30 New Gx Awdin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/d69d0ee33ac1.html",
+      "condition": "new",
+      "price": 30995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-30 New Gx Awdin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/426b41a0504d.html",
+      "condition": "new",
+      "price": 31295.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-30 New Gx Awdin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/bed9402389bd.html",
+      "condition": "new",
+      "price": 30995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-30 Gx Awdin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/853ba9b567f8.html",
+      "condition": "new",
+      "price": 31295.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-30 Gx Awdin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/cdf2bcd704af.html",
+      "condition": "new",
+      "price": 31395.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Mazda CX-30 Gx Awdin Richmond",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/a41940b7a4fa.html",
+      "condition": "new",
+      "price": 30995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-30 Gx Awdin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/977f2f73db40.html",
+      "condition": "new",
+      "price": 30995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda CX-30 Gx Awdin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/9e59c09be4ed.html",
       "condition": "new",
       "price": 30995.0,
       "price_currency": "CAD"
@@ -1402,96 +1479,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mazda CX-30 New Gx Awdin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/4bff274690f0.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "new",
-      "price": 31295.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda CX-30 New Gx Awdin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/b65adff8fa1f.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "new",
-      "price": 31295.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda CX-30 New Gx Awdin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/bb99d53b0504.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "new",
-      "price": 31395.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda CX-30 New Gx Awdin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/bd515804a1cc.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "new",
-      "price": 30995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda CX-30 New Gx Awdin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/d69d0ee33ac1.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "new",
-      "price": 30995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda CX-30 New Gx Awdin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/426b41a0504d.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "new",
-      "price": 31295.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda CX-30 New Gx Awdin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/bed9402389bd.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "new",
-      "price": 30995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda CX-30 Gx Awdin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/853ba9b567f8.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "new",
-      "price": 31295.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda CX-30 Gx Awdin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/cdf2bcd704af.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "new",
-      "price": 31395.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Mazda CX-30 Gx Awdin Richmond",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/f2141efee153.html",
       "year": 2026,
@@ -1499,36 +1486,6 @@
       "model": "CX-30",
       "condition": "new",
       "price": 31295.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda CX-30 Gx Awdin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/977f2f73db40.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "new",
-      "price": 30995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda CX-30 Gx Awdin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/9e59c09be4ed.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "new",
-      "price": 30995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 Gs Atin Richmond",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/97c5ce4b6516.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "Gs Atin Richmond",
-      "condition": "new",
-      "price": 32145.0,
       "price_currency": "CAD"
     },
     {
