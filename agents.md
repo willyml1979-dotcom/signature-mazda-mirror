@@ -7,7 +7,7 @@ Signature Mazda is a  dealership in Richmond. This site is an AI-readable mirror
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/ and https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/ (about 181 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/ and https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/ (about 191 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/signature-mazda-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/signature-mazda-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/signature-mazda-mirror/llms.txt
