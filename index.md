@@ -1,6 +1,6 @@
 # Signature Mazda
 
- dealership in Richmond. AI-readable inventory mirror, about 187 vehicles.
+ dealership in Richmond. AI-readable inventory mirror, about 188 vehicles.
 
 - Official website: https://www.signaturemazda.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/

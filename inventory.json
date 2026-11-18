@@ -1,7 +1,7 @@
 {
   "dealership": "Signature Mazda",
-  "generated_at": "2026-11-18T12:35:14",
-  "vehicle_count": 187,
+  "generated_at": "2026-11-18T12:45:07",
+  "vehicle_count": 188,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1133,25 +1133,23 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mazda CX-90 MHEV ",
-      "vin": "JM3KKCHD9T1418994",
+      "name": "2026 Mazda CX-90 MHEVin Richmond",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/db54a8b4cb99.html",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 MHEV",
+      "model": "CX-90",
       "condition": "new",
-      "price": 51195.0,
+      "price": 48190.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mazda CX-90 PHEV ",
-      "vin": "JM3KKBHA6T1413140",
+      "name": "2026 Mazda CX-90 PHEVin Richmond",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/033de40af906.html",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 PHEV",
+      "model": "CX-90",
       "condition": "new",
-      "price": 51094.0,
+      "price": 51589.0,
       "price_currency": "CAD"
     },
     {
@@ -1172,28 +1170,6 @@
       "model": "MX-5",
       "condition": "new",
       "price": 42690.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda Mazda3 ",
-      "vin": "3MZBPABL3TM515784",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/c8b132b581d9.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "Mazda3",
-      "condition": "new",
-      "price": 26845.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda Mazda3 Sport ",
-      "vin": "JM1BPAKL3T1897072",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/0baa1a6162a4.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "Mazda3",
-      "condition": "new",
-      "price": 28095.0,
       "price_currency": "CAD"
     },
     {
@@ -1337,6 +1313,16 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Mazda CX-30 Gs Awdin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/a54e91deba45.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-30",
+      "condition": "new",
+      "price": 33895.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Mazda CX-30 Gx Awdin Richmond",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/a41940b7a4fa.html",
       "year": 2026,
@@ -1414,6 +1400,16 @@
       "model": "CX-30",
       "condition": "new",
       "price": 30995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Mazda3 Sportin Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/0baa1a6162a4.html",
+      "year": 2026,
+      "make": "Mazda3",
+      "model": "Sportin Richmond",
+      "condition": "new",
+      "price": 28490.0,
       "price_currency": "CAD"
     },
     {
@@ -1714,6 +1710,16 @@
       "model": "Sport Gx Auto Fwdin Richmond",
       "condition": "new",
       "price": 27595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Mazda3in Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/c8b132b581d9.html",
+      "year": 2026,
+      "make": "Mazda3in",
+      "model": "Richmond",
+      "condition": "new",
+      "price": 27740.0,
       "price_currency": "CAD"
     },
     {
