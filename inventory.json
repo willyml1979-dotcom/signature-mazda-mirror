@@ -1,6 +1,6 @@
 {
   "dealership": "Signature Mazda",
-  "generated_at": "2026-11-17T15:29:40",
+  "generated_at": "2026-11-18T03:53:25",
   "vehicle_count": 191,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -55,6 +55,20 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Jeep Wrangler 2021 for salein Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/37b0cde66fdb.html",
+      "condition": "used",
+      "price": 39990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-30 2021 for salein Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/a7bd8354f3ae.html",
+      "condition": "used",
+      "price": 26996.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Toyota Corolla Hatchback 2021 for salein Richmond",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/454b580b9fbf.html",
       "condition": "used",
@@ -66,6 +80,20 @@
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/1736a764b254.html",
       "condition": "used",
       "price": 29990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-30 2023 for salein Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/4958092f0b7a.html",
+      "condition": "used",
+      "price": 24990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-50 2023 for salein Richmond",
+      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/979a0dceb5da.html",
+      "condition": "used",
+      "price": 34990.0,
       "price_currency": "CAD"
     },
     {
@@ -262,7 +290,7 @@
       "make": "Land",
       "model": "Rover Range Rover Velar P380 Se R Dynamicin Richmond",
       "condition": "used",
-      "price": 27990.0,
+      "price": 25990.0,
       "price_currency": "CAD"
     },
     {
@@ -272,7 +300,7 @@
       "make": "Land",
       "model": "Rover Range Rover Velar P380 Se R Dynamicin Richmond",
       "condition": "used",
-      "price": 27990.0,
+      "price": 25990.0,
       "price_currency": "CAD"
     },
     {
@@ -322,7 +350,7 @@
       "make": "Mercedes-Benz",
       "model": "GLA",
       "condition": "used",
-      "price": 22990.0,
+      "price": 21990.0,
       "price_currency": "CAD"
     },
     {
@@ -369,17 +397,6 @@
     {
       "name": "2021 Jeep Wrangler ",
       "vin": "1C4JJXR67MW629503",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/37b0cde66fdb.html",
-      "year": 2021,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 42990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Jeep Wrangler ",
-      "vin": "1C4JJXR67MW629503",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/new/37b0cde66fdb.html",
       "year": 2021,
       "make": "Jeep",
@@ -406,17 +423,6 @@
       "model": "CX-30",
       "condition": "used",
       "price": 26996.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Mazda CX-30 ",
-      "vin": "3MVDMBDL6MM205121",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/a7bd8354f3ae.html",
-      "year": 2021,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "used",
-      "price": 25999.0,
       "price_currency": "CAD"
     },
     {
@@ -637,17 +643,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Mazda CX-30 ",
-      "vin": "3MVDMBDM0PM569516",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/4958092f0b7a.html",
-      "year": 2023,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "used",
-      "price": 24990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Mazda CX-5 Gs Awd At | No Accidents | Low Kilometers | Certified Pre-Ownedin Richmond",
       "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/77f75e95a9f9.html",
       "year": 2023,
@@ -716,17 +711,6 @@
       "model": "CX-5",
       "condition": "used",
       "price": 33986.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Mazda CX-50 ",
-      "vin": "7MMVABDY8PN127171",
-      "url": "https://willyml1979-dotcom.github.io/signature-mazda-mirror/used/979a0dceb5da.html",
-      "year": 2023,
-      "make": "Mazda",
-      "model": "CX-50",
-      "condition": "used",
-      "price": 34990.0,
       "price_currency": "CAD"
     },
     {
